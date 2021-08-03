@@ -1,4 +1,4 @@
-# EPEMPApp
+# EPEMPApp (half development)
 EPEMPApp merupakan aplikasi edukasi untuk memberi inovasi dalam meningkatkan ekonomi di masa pandemi saat ini.  
   
   
